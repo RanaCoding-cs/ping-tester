@@ -25,7 +25,7 @@ pkg update && pkg upgrade -y
 
 pkg install git -y
 
-git clone 
+git clone https://github.com/RanaCoding-cs/ping-tester.git
 
 cd ping-tester
 
